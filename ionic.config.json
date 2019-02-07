@@ -1,5 +1,7 @@
 {
   "name": "ionicapp2",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
